@@ -1,0 +1,32 @@
+{
+  "name": "exemplog",
+  "version": "1.0.0",
+  "description": "Projeto feito como modulo de desenvolvimento interno",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-imagemin": "^2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dcerverizzo/ExemploGulp.git"
+  },
+  "keywords": [
+    "SASS",
+    "LESS",
+    "CSS",
+    "JS",
+    "NODE"
+  ],
+  "author": "Daniel Cerverizzo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dcerverizzo/ExemploGulp/issues"
+  },
+  "homepage": "https://github.com/Dcerverizzo/ExemploGulp#readme"
+}
